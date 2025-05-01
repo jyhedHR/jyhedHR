@@ -1,88 +1,102 @@
-# Hi, I'm Jihed Horchani 👋
+<h1 align="center">Hi there 👋, I'm Jihed Horchani</h1>
+<h3 align="center">Software Engineering Student | Full-Stack Developer | DevOps Enthusiast</h3>
 
-🎓 Software Engineering Student | 💻 Full-Stack Developer | 🚀 DevOps Enthusiast  
-📍 Based in Ariana, Tunisia  
-📧 [Jihed.Horchani@esprit.tn](mailto:Jihed.Horchani@esprit.tn)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jihedhorchani) | 🌐 [GitHub](https://github.com/jyhedHR)
+<p align="center">
+  📍 Ariana, Tunisia &nbsp;&nbsp;|&nbsp;&nbsp;
+  📧 <a href="mailto:Jihed.Horchani@esprit.tn">Jihed.Horchani@esprit.tn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jihedhorchani" target="_blank">🔗 LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/jyhedHR" target="_blank">🌐 GitHub</a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a passionate software engineering student at Esprit in Tunis. I love building full-stack applications, designing microservices systems, and implementing CI/CD pipelines to streamline development workflows. My academic and personal projects reflect a strong understanding of modern technologies and real-world problem-solving.
+🎓 Software Engineering student at **Esprit, Tunis**  
+💡 Passionate about building full-stack apps, microservices systems, and DevOps automation  
+🔥 Always curious and driven to learn new technologies and explore complex systems
 
 ---
 
-## 🔨 Projects
+## 🛠️ Tech Stack
 
-### 📚 E-Learning Platform – MERN Stack (2025 – Present)
-- Developed a full-stack application with **MongoDB, Express.js, React, and Node.js**
-- Implemented **user authentication**, course management, and file uploads
-- Set up **CI/CD pipelines** using Jenkins and Docker
-- Ensured code quality with **SonarQube**
-
-### 🎿 Skier Management Microservices System (2025 – Complete)
-- Built using **Spring Boot, Node.js, Angular, React**
-- Connected services with **Spring Cloud Gateway, Eureka**, and **Config Server**
-- Integrated **Keycloak** for authentication and **Docker Compose** for deployment
-
-### 🛠️ CI/CD Pipeline Automation (2025 – Complete)
-- Tools: **Jenkins, SonarQube, Nexus**
-- Automated testing and deployment processes with GitHub Webhooks
-- Applied DevOps best practices with **JUnit**, **Mockito**, and Nexus artifact management
-
-### 🍽️ Food Management Application (2024 – Complete)
-- Tech: **Java, JavaFX, Symfony, MySQL**
-- Synchronized **desktop and web applications** via a shared database
-
-### 📱 Mobile Food Ordering App (2024 – Complete)
-- Built with **FlutterFlow** and **Firebase**
-- Implemented real-time data sync, notifications, and user management
-
-### 🧠 ADHD Center Desktop App (2023 – Complete)
-- Tech: **Qt, C++, Arduino**
-- Monitored children’s activity and storage conditions with hardware-software integration
-
-### 🇹🇳 Mini Tunisian Game (2021/2022 – Complete)
-- C++, SDL on Linux
-- Interactive game that highlights **Tunisian cultural themes**
+- 💻 **Languages**: Java, JavaScript, C++, C#, SQL, PLSQL  
+- ⚙️ **Frameworks**: Node.js, Express.js, React, Angular, Symfony, Spring Boot  
+- 🛢️ **Databases**: MySQL, MongoDB, PostgreSQL, H2  
+- 🚀 **DevOps Tools**: Docker, Jenkins, SonarQube, Nexus, GitHub Actions  
+- 🖥️ **Other**: Linux, GraphQL, Microservices, UI/UX Design
 
 ---
 
-## 🏢 Experience
+## 🚀 Featured Projects
 
-### 🧪 DevOps Intern | Abshore (Jul 2024 – Aug 2024)
-- Automated deployments using **Docker, Jenkins, Selenium**
-- Integrated CI/CD pipelines for Symfony applications
+### 📚 **E-Learning Platform** (MERN Stack) – *2025*
+> MongoDB • Express.js • React • Node.js • Docker • Jenkins • SonarQube  
+🔹 User authentication, course management, file uploads  
+🔹 CI/CD pipeline & containerization for scalable delivery
 
-### 💼 IT Staff | Tunisie Telecom (Aug 2022 – Sep 2022)
-- Supported system operations and ensured performance quality
+### 🏂 **Microservices-Based Skier Management System** – *2025*
+> Spring Boot • Angular • React • Node.js • Spring Cloud • Docker  
+🔹 Modular services with independent DBs  
+🔹 Auth via Keycloak, configuration via Spring Config Server
+
+### ⚙️ **CI/CD Automation Pipeline** – *2025*
+> Jenkins • SonarQube • Nexus • GitHub  
+🔹 Automated builds, quality gates, webhook integrations  
+🔹 Followed DevOps best practices with unit testing & artifacts
+
+### 🍽️ **Food Management App** – *2024*
+> Java • JavaFX • Symfony • MySQL  
+🔹 Synchronized desktop & web-based food tracking system
+
+### 📱 **Mobile Food App** – *2024*
+> FlutterFlow • Firebase  
+🔹 Real-time updates, ordering system, Firebase auth & notifications
+
+### 🧠 **ADHD Center App** – *2023*
+> Qt • C++ • Arduino  
+🔹 Laser motion detection and environment monitoring system
+
+### 🎮 **Tunisian Game (2D)** – *2021/2022*
+> C++ • SDL • Linux  
+🔹 Culturally inspired 2D interactive gameplay with event handling
 
 ---
 
-## 🧰 Skills
+## 💼 Experience
 
-- **Languages**: Java, JavaScript, C++, C#, SQL, PLSQL  
-- **Frameworks & Tools**: Node.js, Express.js, React, Angular, Symfony, Spring Boot  
-- **DevOps**: Docker, Jenkins, SonarQube, Nexus, GitHub Actions  
-- **Databases**: MySQL, MongoDB, PostgreSQL, H2  
-- **Other**: Linux, Microservices, GraphQL, UI/UX Design
+### 🧪 **DevOps Intern** – *Abshore (Jul–Aug 2024)*
+> Docker • Jenkins • Selenium • Git  
+🔹 Automated Symfony deployments & CI/CD processes
+
+### 🛠️ **IT Staff** – *Tunisie Telecom (Aug–Sep 2022)*  
+🔹 Supported system performance and reliability planning
 
 ---
 
 ## 📜 Certifications
 
-- **Apollo GraphQL** – Apr 2025  
-- **Cyber Security Challenge (IEEE Tunisia)** – Dec 2024  
-- **DeepFake Forensics Challenge (IEEE Tunisia)** – Dec 2023
+- 🛡️ **Cyber Security Challenge** – IEEE Tunisia, *Dec 2024*  
+- 🧠 **DeepFake Forensics Challenge** – IEEE Tunisia, *Dec 2023*  
+- 🧪 **Apollo GraphQL Developer Certificate** – *Apr 2025*
 
 ---
 
-## 🌐 Let's Connect
+## 🌍 Languages
 
-I'm always open to collaboration, internships, and exciting tech discussions.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/jihedhorchani) or [email](mailto:Jihed.Horchani@esprit.tn).
+- 🇹🇳 Arabic — Native  
+- 🇫🇷 French — Fluent  
+- 🇬🇧 English — Professional  
 
 ---
 
-⭐️ _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+## 🤝 Let's Connect!
+
+I'm open to internship and collaboration opportunities.  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jihedhorchani) or send me an [email](mailto:Jihed.Horchani@esprit.tn).
+
+---
+
+<p align="center">
+  <em>“Code is like humor. When you have to explain it, it’s bad.”</em> – Cory House
+</p>
