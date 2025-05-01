@@ -1,102 +1,98 @@
 <h1 align="center">Hi there 👋, I'm Jihed Horchani</h1>
-<h3 align="center">Software Engineering Student | Full-Stack Developer | DevOps Enthusiast</h3>
 
 <p align="center">
-  📍 Ariana, Tunisia &nbsp;&nbsp;|&nbsp;&nbsp;
-  📧 <a href="mailto:Jihed.Horchani@esprit.tn">Jihed.Horchani@esprit.tn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jihedhorchani" target="_blank">🔗 LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/jyhedHR" target="_blank">🌐 GitHub</a>
+  🎓 Software Engineering Student | 💻 Full-Stack Developer | 🚀 DevOps Enthusiast  
+</p>
+
+<p align="center">
+  <a href="mailto:Jihed.Horchani@esprit.tn"><img src="https://img.shields.io/badge/email-Jihed.Horchani@esprit.tn-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/jihedhorchani"><img src="https://img.shields.io/badge/LinkedIn-JihedHorchani-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/jyhedHR"><img src="https://img.shields.io/badge/GitHub-jyhedHR-black?style=flat-square&logo=github"></a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👨‍💻 About Me
 
-🎓 Software Engineering student at **Esprit, Tunis**  
-💡 Passionate about building full-stack apps, microservices systems, and DevOps automation  
-🔥 Always curious and driven to learn new technologies and explore complex systems
-
----
-
-## 🛠️ Tech Stack
-
-- 💻 **Languages**: Java, JavaScript, C++, C#, SQL, PLSQL  
-- ⚙️ **Frameworks**: Node.js, Express.js, React, Angular, Symfony, Spring Boot  
-- 🛢️ **Databases**: MySQL, MongoDB, PostgreSQL, H2  
-- 🚀 **DevOps Tools**: Docker, Jenkins, SonarQube, Nexus, GitHub Actions  
-- 🖥️ **Other**: Linux, GraphQL, Microservices, UI/UX Design
-
----
-
-## 🚀 Featured Projects
-
-### 📚 **E-Learning Platform** (MERN Stack) – *2025*
-> MongoDB • Express.js • React • Node.js • Docker • Jenkins • SonarQube  
-🔹 User authentication, course management, file uploads  
-🔹 CI/CD pipeline & containerization for scalable delivery
-
-### 🏂 **Microservices-Based Skier Management System** – *2025*
-> Spring Boot • Angular • React • Node.js • Spring Cloud • Docker  
-🔹 Modular services with independent DBs  
-🔹 Auth via Keycloak, configuration via Spring Config Server
-
-### ⚙️ **CI/CD Automation Pipeline** – *2025*
-> Jenkins • SonarQube • Nexus • GitHub  
-🔹 Automated builds, quality gates, webhook integrations  
-🔹 Followed DevOps best practices with unit testing & artifacts
-
-### 🍽️ **Food Management App** – *2024*
-> Java • JavaFX • Symfony • MySQL  
-🔹 Synchronized desktop & web-based food tracking system
-
-### 📱 **Mobile Food App** – *2024*
-> FlutterFlow • Firebase  
-🔹 Real-time updates, ordering system, Firebase auth & notifications
-
-### 🧠 **ADHD Center App** – *2023*
-> Qt • C++ • Arduino  
-🔹 Laser motion detection and environment monitoring system
-
-### 🎮 **Tunisian Game (2D)** – *2021/2022*
-> C++ • SDL • Linux  
-🔹 Culturally inspired 2D interactive gameplay with event handling
+I'm a passionate software engineering student at **ESPRIT**, Tunis.  
+I love building full-stack applications, designing scalable microservices, and automating deployments using DevOps practices.
 
 ---
 
 ## 💼 Experience
 
-### 🧪 **DevOps Intern** – *Abshore (Jul–Aug 2024)*
-> Docker • Jenkins • Selenium • Git  
-🔹 Automated Symfony deployments & CI/CD processes
+### 🔧 DevOps Intern – Abshore (Jul 2024 – Aug 2024)
+- CI/CD pipeline automation with **Docker, Jenkins, Selenium**
+- Symfony deployments with **GitHub Webhooks**
 
-### 🛠️ **IT Staff** – *Tunisie Telecom (Aug–Sep 2022)*  
-🔹 Supported system performance and reliability planning
+### 🖥️ IT Staff – Tunisie Telecom (Aug 2022 – Sep 2022)
+- Supported IT operations and ensured performance reliability
+
+---
+
+## 🚀 Projects
+
+### 📚 E-Learning Platform (MERN Stack)
+> MongoDB | Express.js | React.js | Node.js | Docker | Jenkins  
+- Full-stack development with authentication and file management  
+- CI/CD + SonarQube + GitHub Integration
+
+### ⛷️ Skier Management System (Microservices)
+> Spring Boot | Angular | React | Keycloak | Docker Compose  
+- Microservices + API Gateway + Eureka  
+- Independent services with modular databases
+
+### 🔁 DevOps CI/CD Pipeline
+> Jenkins | SonarQube | Nexus | GitHub | JUnit  
+- Quality gates, webhook triggers, and artifact management
+
+### 🍽️ Food Management App
+> JavaFX | Symfony | MySQL  
+- Desktop & Web cross-platform data synchronization
+
+### 📱 Food Mobile App
+> FlutterFlow | Firebase  
+- Real-time sync, user management, intuitive UI
+
+### 🎮 Mini Tunisian Game
+> SDL | C++ | Linux  
+- 2D game inspired by Tunisian culture
+
+---
+
+## 🧠 Skills
+
+| 💻 Languages        | 🛠️ Tools & Frameworks         | 🧪 DevOps & Testing     |
+|--------------------|-------------------------------|--------------------------|
+| Java, JS, C++, C#   | Node.js, React, Symfony, Spring Boot | Docker, Jenkins, Selenium |
+| SQL, MongoDB, H2    | Angular, Express, JavaFX      | SonarQube, Nexus, GitHub |
+| GraphQL             | Qt, Arduino                   | JUnit, Mockito           |
 
 ---
 
 ## 📜 Certifications
 
-- 🛡️ **Cyber Security Challenge** – IEEE Tunisia, *Dec 2024*  
-- 🧠 **DeepFake Forensics Challenge** – IEEE Tunisia, *Dec 2023*  
-- 🧪 **Apollo GraphQL Developer Certificate** – *Apr 2025*
+- **Apollo GraphQL** – Apr 2025  
+- **IEEE Cyber Security Challenge** – Dec 2024  
+- **IEEE DeepFake Forensics Challenge** – Dec 2023  
 
 ---
 
 ## 🌍 Languages
 
-- 🇹🇳 Arabic — Native  
-- 🇫🇷 French — Fluent  
-- 🇬🇧 English — Professional  
+- 🇹🇳 Arabic – Native  
+- 🇫🇷 French – Fluent  
+- 🇺🇸 English – Professional  
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-I'm open to internship and collaboration opportunities.  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jihedhorchani) or send me an [email](mailto:Jihed.Horchani@esprit.tn).
+I'm always open to new ideas, projects, or opportunities!  
+Feel free to reach out via [email](mailto:Jihed.Horchani@esprit.tn) or [LinkedIn](https://www.linkedin.com/in/jihedhorchani).
 
 ---
 
 <p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em> – Cory House
+  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
 </p>
