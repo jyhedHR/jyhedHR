@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:Jihed.Horchani@esprit.tn"><img src="https://img.shields.io/badge/email-Jihed.Horchani@esprit.tn-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/jihedhorchani"><img src="https://img.shields.io/badge/LinkedIn-JihedHorchani-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/jihed-horchani"><img src="https://img.shields.io/badge/LinkedIn-JihedHorchani-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/jyhedHR"><img src="https://img.shields.io/badge/GitHub-jyhedHR-black?style=flat-square&logo=github"></a>
 </p>
 
