@@ -18,6 +18,11 @@ I'm a passionate software engineering student at **ESPRIT**, Tunis.
 I love building full-stack applications, designing scalable microservices, and automating deployments using DevOps practices.
 
 ---
+## 🏆 Awards
+<p align="center">
+  <img src="https://link-to-your-award-image1.png" alt="Award 1" width="120">
+  <br>Massai 2025 – Best Poster Award in the Education Field
+</p>
 
 ## 💼 Experience
 
@@ -89,7 +94,7 @@ I love building full-stack applications, designing scalable microservices, and a
 ## 🤝 Let's Connect
 
 I'm always open to new ideas, projects, or opportunities!  
-Feel free to reach out via [email](mailto:Jihed.Horchani@esprit.tn) or [LinkedIn](https://www.linkedin.com/in/jihedhorchani).
+Feel free to reach out via [email](mailto:Jihed.Horchani@esprit.tn) or [LinkedIn](https://www.linkedin.com/in/jihed-horchani/).
 
 ---
 
