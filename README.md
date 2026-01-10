@@ -20,7 +20,7 @@ I love building full-stack applications, designing scalable microservices, and a
 ---
 ## 🏆 Awards
 <p align="center">
-  <img src="https://link-to-your-award-image1.png" alt="Award 1" width="120">
+  <img src="bestPoster.jpg" alt="Award 1" width="120">
   <br>Massai 2025 – Best Poster Award in the Education Field
 </p>
 
